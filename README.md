@@ -4,7 +4,7 @@ Plataforma de uso para actividades de un Deposito Fiscal.
 Estándares Tecnológicos
 
 Dispositivos Móviles
-  Para operar, subir fotos, escanear,consultar.
+  Para operar, subir fotos, escanear, consultar.
 Redes Inalámbricas
   Wifi o 3G/4G para  registrar en depósito/playa.
 Códigos de Barras
