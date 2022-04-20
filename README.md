@@ -4,7 +4,7 @@ Plataforma de uso para actividades de un Deposito Fiscal.
 Estándares Tecnológicos
 
 Dispositivos Móviles
-  Para operar, subir fotos, escanear,consultar
+  Para operar, subir fotos, escanear,consultar.
 Redes Inalámbricas
   Wifi o 3G/4G para  registrar en depósito/playa.
 Códigos de Barras
@@ -13,7 +13,7 @@ Códigos de Barras
 Scanners
   Para digitalización de la documentación.
 Internet
-  Integración dispositivos IP (cámaras) y conversor serie/ip  para los no nativos. (balanzas)
+  Integración dispositivos IP (cámaras) y conversor serie/ip  para los no nativos. (balanzas).
 Implementacion
   Proceso de ETL con sistema actual.
 Suscripciones 
@@ -21,4 +21,4 @@ Suscripciones
 Ticketing
   Soporte remoto a traves de OTRS.
 Grafana
-  Monitoreo metricas
+  Monitoreo metricas.
